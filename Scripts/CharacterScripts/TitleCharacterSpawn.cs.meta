@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c9116842d76f5541b219b8b480b303f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bg: {fileID: 3249966854222780409, guid: d82ccb514dc343f47b8d7bf8c75ad123, type: 3}
+  - bs: {fileID: 6346526191353121880, guid: 2ca5d2b0e850d33488e08ae962beb79c, type: 3}
+  - ba: {fileID: 2491934854178206822, guid: 0491cad8859ebd14ba90871df1b0a7c9, type: 3}
+  - bw: {fileID: 6907710298087131639, guid: 82af02fe31c932a4e9770a40eaa1ed77, type: 3}
+  - enemySpawnPos: {instanceID: 0}
+  - bwSpawnPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
